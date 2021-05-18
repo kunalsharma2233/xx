@@ -1,0 +1,39 @@
+h4{
+    font-family: "Montserrat-Bold";
+    font-weight: bold;
+    line-height: 2;
+    
+}
+p{
+    font-family: "Ubuntu";
+    font-weight: bold;
+    line-height: 0.5;
+    
+}
+
+/* Section section */
+#second{
+    margin-top: 4%;
+    padding: 3% 15%;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+#second i{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+#second i:hover{
+    color:#ff4c68;
+}
+
+/* third section */
+#third .container
+{
+    margin-top: 100px;
+}
+#third p{
+    line-height:2;
+}
